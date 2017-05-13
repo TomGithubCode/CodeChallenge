@@ -83,7 +83,7 @@ public class MathEval {
 		mapPrecedence.put('+', 1);
 		mapPrecedence.put('-', 1);
 		mapPrecedence.put('*', 2);
-		mapPrecedence.put('/', 3);
+		mapPrecedence.put('/', 2);
 	}
 
 	private void run() {
